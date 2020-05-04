@@ -2,9 +2,9 @@
 **It can be used to trigger alarms if the door is opened at specific times(night or weekends etc.)**
 
 
-1. Select the video input in line 41 i.e. Live Camera or Saved Video file.
+1. Select the video input in Door_Detection_main.py(**line 41**) i.e. Live Camera or Saved Video file.
 
-2. Run the file.
+2. Run **Door_Detection_main.py**.
 
 3. It is assumed that the door is Closed in the 1st frame which is taken as the refrence frame.
 
